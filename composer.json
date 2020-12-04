@@ -1,0 +1,13 @@
+{
+    "name": "mauricio/red2",
+    "description": "apilicacion didactita red social aprender php",
+    "type": "project",
+    "license": "Open Source",
+    "authors": [
+        {
+            "name": "mauricio ortiz",
+            "email": "mmortiz59@misena.edu.co"
+        }
+    ],
+    "require": {}
+}
