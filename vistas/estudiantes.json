@@ -1,0 +1,18 @@
+
+[
+    {
+        "nombre": "carlos andres",
+        "edad": 92,
+        "estado": null
+    },
+    {
+        "nombre": "juan alberto perez",
+        "edad": 22,
+        "estado": true
+    },
+    {
+        "nombre": "milagro aldaba",
+        "edad": 30,
+        "estado": false
+    }
+]
